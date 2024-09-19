@@ -1,0 +1,9 @@
+body{
+    background-color: #F0F2F5;
+    font-family: 'Kanit';
+}
+main{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
